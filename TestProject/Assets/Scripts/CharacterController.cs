@@ -5,7 +5,7 @@ using UnityEngine;
 public class CharacterController : MonoBehaviour
 {
 
-    public string name = "Nick";
+    public string name = "CoolDude";
     public int health = 200;
 
     // Start is called before the first frame update
